@@ -1,0 +1,11 @@
+:root {
+  --darkColor: #04040c;
+  --primColor: #28363A;
+  --textColor: #849494;
+}
+
+
+
+.app {
+  background-color: var(--darkColor);
+}
